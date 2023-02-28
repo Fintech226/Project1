@@ -1,3 +1,6 @@
+Run in editor or complete notebook
+Run each code box in order
+
 ***Juniper Notebook***
 
 *Import all packages*
@@ -5,3 +8,4 @@
 *Describe Data Columns*
 *OLS regression Model*
 *Data Visualizations*
+
